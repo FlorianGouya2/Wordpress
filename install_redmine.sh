@@ -11,7 +11,7 @@ apt update
 echo "Mise à jour dépôt paquets APT ok"
 
 echo "Installation des paquets APT ..."
-apt -y install install postgresql postgresql-contrib build-essential zlib1g zlib1g-dev zlibc ruby-zip libssl-dev libyaml-dev libcurl4-openssl-dev ruby gem libapache2-mod-passenger apache2 apache2-dev libapr1-dev libxslt1-dev libpq-dev libxml2-dev ruby-dev vim libmagickwand-dev imagemagick rails mlocate
+apt -y install postgresql postgresql-contrib build-essential zlib1g zlib1g-dev zlibc ruby-zip libssl-dev libyaml-dev libcurl4-openssl-dev ruby gem libapache2-mod-passenger apache2 apache2-dev libapr1-dev libxslt1-dev libpq-dev libxml2-dev ruby-dev vim libmagickwand-dev imagemagick rails mlocate
 # apt install gcc
 echo "Installation des paquets APT ok"
 
